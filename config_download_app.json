@@ -1,1 +1,11 @@
-ewogICJhcHBfbmFtZSI6ICJDYXJvIEFJIC0gQ2xhc3NpYyIsCiAgImRlc2NyaXB0aW9uIjogIkNBUk8gQ0xBU1NJQyBsw6AgZ2FtZSBj4budIGNhcm8gKGdvbW9rdSAvIG4gcXXDom4gbGnDqm4gdGnhur9wKSB0aGVvIHBob25nIGPDoWNoIG5lb24gaGnhu4duIMSR4bqhaSwgcGjDuSBo4bujcCBjaMahaSBuaGFuaCB0csOqbiDEkWnhu4duIHRob-G6oWkuIiwKICAidHlwZSI6ICJHYW1lIiwKICAidXJsX2RlbW9fc2NyZWVuIjogImh0dHBzOi8vY29tbW9uLXM4OC5zYW5kYm94ZzEud2luL2Fzc2V0cy9pbWFnZXMvaW1hZ2VfYXBwX2Rvd25sb2FkLndlYnAiLAogICJ1cmxfaWNvbl9hcHAiOiAiaHR0cHM6Ly9jb21tb24tczg4LnNhbmRib3hnMS53aW4vYXNzZXRzL2ZpbGVzL2ljb25fYXBwX2Zha2UucG5nIiwKICAidXJsX2lvc19zdG9yZSI6ICJodHRwczovL2FwcHMuYXBwbGUuY29tL3VzL2FwcC9jYXJvLWFpLWNsYXNzaWMvaWQ2NzYxNzY5MDU1IiwKICAidXJsX2FuZHJvaWRfc3RvcmUiOiAiIiwKICAidXJsX2ZpbGVfYW5kcm9pZF9hcGsiOiAiaHR0cHM6Ly9sZHAtczg4LnNhbmRib3hnMS53aW4vZmlsZS9zODhfc3BvcnRfMjgwNDI2LmFwayIKfQ
+{
+  "app_name": "Caro AI - Classic",
+  "description": "CARO CLASSIC là game cờ caro (gomoku / n quân liên tiếp) theo phong cách neon hiện đại, phù hợp chơi nhanh trên điện thoại.",
+  "full_description": "CARO CLASSIC là game cờ caro (gomoku / n quân liên tiếp) theo phong cách neon hiện đại, phù hợp chơi nhanh trên điện thoại.\n**Chơi cách nào?**\n• Hai người chơi: cùng chơi trên một máy.\n• Chơi với AI: luyện tập mọi lúc, chọn độ khó Dễ / Trung bình / Khó.\n**Bàn & luật**\n• Nhiều cỡ bàn: từ 3×3 (3 quân thắng) đến 15×15 (5 quân liên tiếp), phù hợp vừa tic-tac-toe nhanh vừa caro chuẩn.\n**Tuỳ biến**\n• Thời gian mỗi lượt: không giới hạn hoặc 10s–60s — hoặc thua khi hết giờ.\n• Skin quân cờ: Neon, Lửa, Rừng, Hoàng gia, Mono.\n• Nền bàn: Đêm, Đại dương, Rừng sâu, Hoàng hôn, Gỗ cổ, Than.\n**Tiện ích**\n• Hoàn tác (Undo), chơi lại ván (Reset).\n• Màn hình kết quả: tổng số nước, thời gian ván.\n• Lịch sử ván đấu, thống kê thắng/hòa/thua, xóa lịch sử khi cần.\n• Âm bật/tắt trong Cài đặt.\n• Ngôn ngữ: Tiếng Việt, English, 日本語, 中文.\nKhông cần Internet sau khi cài — chơi offline hoàn toàn.",
+  "type": "Game",
+  "url_demo_screen": "https://common-s88.sandboxg1.win/assets/images/image_app_download.webp",
+  "url_icon_app": "https://common-s88.sandboxg1.win/assets/files/icon_app_fake.png",
+  "url_ios_store": "https://apps.apple.com/us/app/caro-ai-classic/id6761769055",
+  "url_android_store": "",
+  "url_file_android_apk": "https://ldp-s88.sandboxg1.win/file/s88_sport_280426.apk"
+}
