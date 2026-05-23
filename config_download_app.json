@@ -3,8 +3,8 @@
   "description": "CARO CLASSIC là game cờ caro (gomoku / n quân liên tiếp) theo phong cách neon hiện đại, phù hợp chơi nhanh trên điện thoại.",
   "full_description": "CARO CLASSIC là game cờ caro (gomoku / n quân liên tiếp) theo phong cách neon hiện đại, phù hợp chơi nhanh trên điện thoại.\n**Chơi cách nào?**\n• Hai người chơi: cùng chơi trên một máy.\n• Chơi với AI: luyện tập mọi lúc, chọn độ khó Dễ / Trung bình / Khó.\n**Bàn & luật**\n• Nhiều cỡ bàn: từ 3×3 (3 quân thắng) đến 15×15 (5 quân liên tiếp), phù hợp vừa tic-tac-toe nhanh vừa caro chuẩn.\n**Tuỳ biến**\n• Thời gian mỗi lượt: không giới hạn hoặc 10s–60s — hoặc thua khi hết giờ.\n• Skin quân cờ: Neon, Lửa, Rừng, Hoàng gia, Mono.\n• Nền bàn: Đêm, Đại dương, Rừng sâu, Hoàng hôn, Gỗ cổ, Than.\n**Tiện ích**\n• Hoàn tác (Undo), chơi lại ván (Reset).\n• Màn hình kết quả: tổng số nước, thời gian ván.\n• Lịch sử ván đấu, thống kê thắng/hòa/thua, xóa lịch sử khi cần.\n• Âm bật/tắt trong Cài đặt.\n• Ngôn ngữ: Tiếng Việt, English, 日本語, 中文.\nKhông cần Internet sau khi cài — chơi offline hoàn toàn.",
   "type": "Game",
-  "url_demo_screen": "https://common-s88.sandboxg1.win/assets/images/image_app_download.webp",
-  "url_icon_app": "https://common-s88.sandboxg1.win/assets/images/icon_app_fake.png",
+  "url_demo_screen": "https://app.statico396nb.com/assets/images/image_app_download.webp",
+  "url_icon_app": "https://app.statico396nb.com/assets/files/icon_app_fake.png",
   "url_ios_store": "https://apps.apple.com/us/app/caro-ai-classic/id6761769055",
   "url_android_store": "",
   "url_file_android_apk": "https://ldp-s88.sandboxg1.win/file/s88_sport_280426.apk"
