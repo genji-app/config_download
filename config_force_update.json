@@ -8,5 +8,10 @@
     "bundle_id": "com.hangmanletterfall.game",
     "min_patch_force_update_ios": 50,
     "min_patch_force_update_android": 1
+  },
+  {
+    "bundle_id": "com.zengrid_thebai.thebai2026",
+    "min_patch_force_update_ios": 1,
+    "min_patch_force_update_android": 2
   }
 ]
