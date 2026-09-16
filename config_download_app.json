@@ -10,12 +10,12 @@
     "url_file_android_apk": "https://sun88.win/file/s88_sport_110826.apk"
   },
   "ios": {
-    "app_name": "Hangman Letterfall",
-    "description": "Hangman Letterfall is a classic word guessing game where you choose a category and guess letters to reveal the hidden word before you run out of chances.",
-    "full_description": "Hangman Letterfall is a classic word guessing game where you choose a category and guess letters to reveal the hidden word before you run out of chances.",
+    "app_name": "Space Dodger X",
+    "description": "Space Dodger is a thrilling mobile game that blends classic arcade action with modern features. Pilot your spaceship through hazardous asteroid fields, collect valuable coins, and aim for the highest score.",
+    "full_description": "Space Dodger is a thrilling mobile game that blends classic arcade action with modern features. Pilot your spaceship through hazardous asteroid fields, collect valuable coins, and aim for the highest score. Customize your gameplay experience with a range of settings and difficulty levels, making each run uniquely challenging and fun.",
     "type": "Game",
     "url_demo_screen": "https://app.statico396nb.com/assets/imgages/image_app_download.webp",
-    "url_icon_app": "https://app.statico396nb.com/logo/icon_app_fake_lp.png",
-    "url_ios_store": "https://apps.apple.com/ae/app/hangman-letterfall/id6761761947"
+    "url_icon_app": "https://app.statico396nb.com/logo/icon_space_dogger",
+    "url_ios_store": "https://apps.apple.com/us/app/space-dodger-x/id6747392357"
   }
 }
