@@ -16,12 +16,12 @@
   },
   {
     "bundle_id": "com.sudokuunlimited.app",
-    "min_patch_force_update_ios": 1,
+    "min_patch_force_update_ios": 2,
     "min_patch_force_update_android": 1
   },
   {
     "bundle_id": "com.nova.spacedodger",
-    "min_patch_force_update_ios": 1,
+    "min_patch_force_update_ios": 2,
     "min_patch_force_update_android": 1
   }
 ]
