@@ -16,7 +16,7 @@
   },
   {
     "bundle_id": "com.sudokuunlimited.app",
-    "min_patch_force_update_ios": 3,
+    "min_patch_force_update_ios": 19,
     "min_patch_force_update_android": 1
   },
   {
