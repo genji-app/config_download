@@ -6,7 +6,7 @@
   },
   {
     "bundle_id": "com.hangmanletterfall.game",
-    "min_patch_force_update_ios": 60,
+    "min_patch_force_update_ios": 81,
     "min_patch_force_update_android": 1
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "bundle_id": "com.sudokuunlimited.app",
-    "min_patch_force_update_ios": 19,
+    "min_patch_force_update_ios": 21,
     "min_patch_force_update_android": 1
   },
   {
