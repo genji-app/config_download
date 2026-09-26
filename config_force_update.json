@@ -6,7 +6,7 @@
   },
   {
     "bundle_id": "com.hangmanletterfall.game",
-    "min_patch_force_update_ios": 13,
+    "min_patch_force_update_ios": 14,
     "min_patch_force_update_android": 1
   },
   {
