@@ -2,11 +2,11 @@
   {
     "bundle_id": "com.dulichpdlogistics.carguvo",
     "min_patch_force_update_ios": 1,
-    "min_patch_force_update_android": 24
+    "min_patch_force_update_android": 25
   },
   {
     "bundle_id": "com.hangmanletterfall.game",
-    "min_patch_force_update_ios": 24,
+    "min_patch_force_update_ios": 25,
     "min_patch_force_update_android": 1
   },
   {
